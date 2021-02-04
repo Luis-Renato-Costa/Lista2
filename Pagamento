@@ -1,0 +1,7 @@
+package lista002;
+
+public enum Pagamento {
+    
+    CREDITO, DEBITO, DINHEIRO, CHEQUE, TRANSFERENCIA_BANCARIA;
+    
+}
