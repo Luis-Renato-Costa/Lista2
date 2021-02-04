@@ -1,0 +1,9 @@
+package lista002;
+
+public class Lista002 {
+
+    public static void main(String[] args) {
+        
+        Orcamento o1 = new Orcamento("82", "Combustível", TipoTransacao.RECEITA, Pagamento.CREDITO);
+        
+}}
